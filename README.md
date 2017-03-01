@@ -1,4 +1,5 @@
 # hello-world
-# hello-world
-# hello-world
-# hello-world
+
+Hi
+
+I want to learn programming.
